@@ -1,0 +1,18 @@
+input trip path   :input/trip_data_7
+input station path:input/station_data_7
+start trip train  :s_trip_201504.pickle
+end   trip train  :e_trip_201504.pickle
+start trip test   :s_trip_201505.pickle
+end   trip test   :e_trip_201505.pickle
+
+intermediate train path   :intermediate_data/lincon/201504_train_7
+intermediate test  path   :intermediate_data/lincon/201504_test_7
+
+output summary path   :output/summary/lincon/20150405_7
+
+station num     :7
+time num        :288
+rebalance span  :1
+rebalance start :8
+rebalance end   :20
+control name    :lincon

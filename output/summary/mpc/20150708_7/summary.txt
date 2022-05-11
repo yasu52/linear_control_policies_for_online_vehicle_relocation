@@ -1,0 +1,6 @@
+MPC RelVeh    :103.333333
+MPC StaCap    :64.300000
+MPC IniCon    :31.966667
+MPC Obj       :199.6
+
+MPC Elapsed Time  :544.5217952728271

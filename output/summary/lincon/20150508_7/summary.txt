@@ -1,0 +1,15 @@
+Train RelVeh    :41.838710
+Train StaCap    :3.451613
+Train IniCon    :43.548387
+Train Obj       :88.838710
+
+Test  RelVeh    :56.533333
+Test  StaCap    :75.766667
+Test  IniCon    :57.066667
+Test  Obj       :189.366667
+
+Train Elapsed Time  :48.481508
+Test  Elapsed Time  :4.194314
+
+Train W Sum         :48.481508
+Train Status Name   :Optimal
